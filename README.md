@@ -1,3 +1,3 @@
-<img src = "/resources/Image.png">
+<img src = "/resources/Image.png" height ="200" width ="200">
 ### Hi there 👋
 
