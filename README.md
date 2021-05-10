@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on HTML, CSS, JavaScript, Python
 - 🌱 I’m currently learning Django, React.js, MongoDB, SQL, GraphQL, Amazon Web Services(AWS) 
-- 😄 Hobbies: ...
+- 😄 Hobbies: Reading, Cooking, Photography
 
 
 ## 📫 How to reach me: 
