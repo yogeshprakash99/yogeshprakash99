@@ -20,11 +20,12 @@
 
 <a href = "https://www.instagram.com/yogi__bear__12/"><img align ="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-
 <a href = "https://www.instagram.com/ypgrapher_12/"><img align ="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
+<a href = "https://www.reddit.com/user/yogeshprakash12"><img align ="left" width="45px" src="https://img.icons8.com/doodle/100/000000/reddit--v4.png/"> </a>
 
-</br>
+<br />
+
 
 ## Languages and Tools:
 
@@ -38,7 +39,8 @@
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/fluent/48/000000/github.png" />
 
-</br>
+<br />
+
 ---
 
 ### Email: yogeshprakash99@gmail.com
