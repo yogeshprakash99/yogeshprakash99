@@ -1,3 +1,3 @@
-<img src = "./resources/image.png">
+<img src = "/resources/image.png">
 ### Hi there 👋
 
