@@ -38,6 +38,7 @@
 <img align="left" alt="XD" width="26px" src="https://img.icons8.com/color/48/000000/adobe-xd.png" />
 <img align="left" alt="AWS" width="26px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" />
 <img align="left" alt="git" width="26px" src="https://img.icons8.com/fluent/48/000000/github.png" />
+<img align="left" alt="cl" width="26px" src="https://img.icons8.com/color/48/000000/console.png" />
 
 <br />
 
