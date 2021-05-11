@@ -26,7 +26,7 @@
 <a href = "https://www.reddit.com/user/yogeshprakash12"><img align ="left" width="45px" src="https://img.icons8.com/doodle/100/000000/reddit--v4.png/"> </a>
 
 <br />
-
+<br />
 
 ## Languages and Tools:
 
