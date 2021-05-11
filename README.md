@@ -14,7 +14,7 @@
 
 <a href = "https://www.linkedin.com/in/yogesh-prakash-459958188/"><img align = "left" src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<br />
+<br>
 
 ## Socials:
 
