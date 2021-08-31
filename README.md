@@ -19,7 +19,6 @@
 
 ## Socials:
 
-<a href = "https://www.instagram.com/yogi__bear__12/"><img align ="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 <a href = "https://www.instagram.com/ypgrapher_12/"><img align ="left" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
