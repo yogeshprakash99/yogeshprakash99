@@ -3,7 +3,7 @@
 
 ### Hi there!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my Github Profile
 
-<p>I am a 4th year college student studying in Bangalore, Karnataka. My major is B.E. Mechatronics.<br>I am a beginner when it comes to software development and full stack development but I am looking for opportunities that can help me get stronger in these fields.</p>
+<p>I am a Mechatronics Graduate residing in Bangalore, Karnataka. <br>I am a beginner when it comes to software development and full stack development but I am looking for opportunities that can help me get stronger in these fields.</p>
 
 - 🔭 I’m currently working on HTML, CSS, JavaScript, Python
 - 🌱 I’m currently learning Django, React.js, MongoDB, SQL, GraphQL, Amazon Web Services(AWS) 
